@@ -5,7 +5,7 @@ ArXiv QA Bot is a user-friendly Streamlit application that allows you to search 
 ## Folder Structure
 
 ```
-Arxiv-QA-Bot/
+ARXIV-QA-Bot/
 ├── arxiv-qa-bot.py
 ├── README.md
 └── requirements.txt
