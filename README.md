@@ -31,7 +31,7 @@ ArXiv-QA-Bot/
 
 1. **Clone the repository** (or download it):
    ```bash
-   git clone https://github.com/akash301191/arxiv-qa-bot.git
+   git clone https://github.com/akash301191/ArXiv-QA-Bot.git
    cd arxiv-qa-bot
    ```
 
