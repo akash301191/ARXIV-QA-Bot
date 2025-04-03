@@ -1,6 +1,6 @@
 # ArXiv QA Bot
 
-ArXiv QA Bot is a user-friendly Streamlit application that allows you to search and interact with research papers from arXiv. Powered by the [Agno](https://github.com/agno-ai/agno) framework and OpenAI's GPT-4o model, this tool enables you to explore the wealth of knowledge contained within arXiv papers through intuitive text-based interactions.
+ArXiv QA Bot is a user-friendly Streamlit application that allows you to search and interact with research papers from arXiv. Powered by the [Agno](https://github.com/agno-agi/agno) framework and OpenAI's GPT-4o model, this tool enables you to explore the wealth of knowledge contained within arXiv papers through intuitive text-based interactions.
 
 ## Folder Structure
 
