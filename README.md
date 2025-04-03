@@ -32,7 +32,7 @@ ArXiv-QA-Bot/
 1. **Clone the repository** (or download it):
    ```bash
    git clone https://github.com/akash301191/ArXiv-QA-Bot.git
-   cd arxiv-qa-bot
+   cd ArXiv-QA-Bot
    ```
 
 2. **(Optional) Create and activate a virtual environment**:
